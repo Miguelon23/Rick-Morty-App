@@ -1,0 +1,3 @@
+Style.css: https://raw.githubusercontent.com/ratasi/rick-morty/master/src/index.css
+
+Api: https://rickandmortyapi.com/
